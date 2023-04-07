@@ -10,7 +10,7 @@ Once you have Python 3 installed, you can clone this repository using the follow
 
 bash
 
-git clone https://github.com/<your-username>/polymorphic-encryption.git
+git clone https://github.com/tukru/Crypt0Morph.py
 
 Usage
 
