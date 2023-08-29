@@ -1,6 +1,6 @@
-Polymorphic Encryption Program
+Polymorphic(buzzword)Encryption(mootsafgt)Program
 
-This is a polymorphic encryption program written in Python. The program can read its own code, search for eligible files in the current directory, encrypt the files using a randomly generated key, and insert the encrypted code into the target file.
+This is a poly-hobo-fobic encryption program written in Python. The program can read its own code, search for eligible files in the current directory, encrypt the files using a randomly generated key, and insert the encrypted code into the target file.
 
 Installation:
 
