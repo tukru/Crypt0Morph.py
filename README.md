@@ -1,5 +1,7 @@
 Polymorphic(buzzword)Encryption(mootsafgt)Program
 
+WARNING THIS CAN MESS YOUR FILES UP FAST!
+
 This is a poly-hobo-fobic encryption program written in Python. The program can read its own code, search for eligible files in the current directory, encrypt the files using a randomly generated key, and insert the encrypted code into the target file.
 
 Installation:
@@ -19,9 +21,9 @@ To use the encryption program, navigate to the cloned repository in your termina
 python3 encryption.py
 
 The program will then read its own code and search for eligible files in the current directory. If an eligible file is found, the program will generate a crypt key, encrypt the file using a randomly chosen encryption method, create a string of the encrypted code, generate a random filename, and create a decryption routine. The program will then replace some of its own variables with randomly generated variables, insert the encrypted code into the target file, and delete itself from the directory.
-Contributing
 
-If you would like to contribute to this project, please follow these steps:
+
+If you would like to contribute (you shouldn't) to this project, please follow these steps:
 
     Fork this repository
     Create a new branch (git checkout -b my-new-feature)
