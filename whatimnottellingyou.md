@@ -1,1 +1,1 @@
-this is basicly malware/ ransomware in its sense of infection and basic methodolgies.
+this is basicly A FUCK YOU in its sense of infection and basic methodolgies.
